@@ -7,6 +7,7 @@ Just stay with me and learn PostgreSQL
 What i cover in this repository:-
 
    ---------Skill--------
+   
             basic operation,
             database,
             How many types of postgreSQL. 
